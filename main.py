@@ -125,6 +125,5 @@ def main():
     upcoming_birthdays = get_upcoming_birthdays(users)
     print("This week's list of greetings:", upcoming_birthdays)
 
-
 if __name__ == "__main__":
     main()
